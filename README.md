@@ -42,4 +42,4 @@ AI features only call the provider you configure, using your own key.
 ---
 
 The application source is maintained privately; this repository hosts public
-release builds only. Built by [Debajyoti Saikia](https://deb0.com/) · MIT License.
+release builds only. Built by [Debajyoti Saikia](https://deb0.com/) · All rights reserved.
